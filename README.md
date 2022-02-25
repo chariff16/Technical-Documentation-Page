@@ -1,2 +1,7 @@
-this Technical Documentation Page is mock form freecodecamp i hope you like my work 
-https://github.com/chariff16/Technical-Documentation-Page.git
+# Technical Documentation Page
+this mock Technical Documentation Page for JavaScript
+# code with 
+- HTML
+- CSS
+# Live Demo
+https://chariff16.github.io/Technical-Documentation-Page/
